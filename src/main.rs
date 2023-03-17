@@ -3,8 +3,6 @@ mod server;
 mod http;
 mod handler;
 
-use http::Request;
-use http::Method;
 use handler::HttpHandler;
 
 fn main() {

@@ -1,4 +1,3 @@
-#![allow(unused)]
 use std::str::FromStr;
 use std::fmt::{Display,Debug,Formatter,Result as FmtResult};
 
